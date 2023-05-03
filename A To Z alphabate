@@ -3,10 +3,10 @@ using namespace std;
 
 int main()
 {
-    char a=97;
+    char A=97;
    
-    while(a<=122){
-        cout<<a<<endl ; 
+    while(A<=122){
+        cout<<A<<endl ; 
         (a++);
     }
    
