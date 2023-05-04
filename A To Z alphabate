@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-    char A=65;
+    char a=97;
    
-    while(A<=91){
+    while(a<=123){
         cout<<A<<endl ; 
         (a++);
     }
